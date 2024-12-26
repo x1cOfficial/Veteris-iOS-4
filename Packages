@@ -1,1 +1,14 @@
-
+Package: x1c.ios4ports.veteris
+Name: Veteris
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: A Client for the Veteris Server.
+Maintainer: x1c
+Author: Electimon <electimon@gmail.com>
+Section: App Stores
+Depends: appsync
+Filename: debs/Veteris-v2.0.0
+Size: 2077548
+MD5sum: 8607e352d2d6cd0d424fbc2fb70f819c
+SHA1: fcb5721462dec70a2643059b8bcfd15f9cfd4d6d
+SHA256: 755df1cb3cc32309ab26832636fbcc086bbf9dbb15223e847db1d40cfa751463
